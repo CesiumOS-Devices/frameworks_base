@@ -45,4 +45,6 @@
     <dimen name="screenshot_ui_height">200dp</dimen>
     <dimen name="screenshot_preview_height">80dp</dimen>
 
+    <dimen name="qs_custom_header_offset">0dp</dimen>
+
 </resources>
